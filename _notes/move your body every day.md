@@ -1,4 +1,10 @@
 ---
+title: ANNIE'S ARTICLE
+date: 2024-10-09
+category: writing
+excerpt: Systems want to grow and grow, but without pruning, they collapse. Slowly, then spectacularly...
+reading_time: 1
+tags: [minimalism, systems]
 ---
 
 Move your body every day. Benefits include:

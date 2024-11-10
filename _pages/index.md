@@ -5,17 +5,23 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# About me
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+<div style="text-align: center;">
+  <img src="{{ '/assets/IMG_8265.jpg' | relative_url }}" alt="Christian Levan" style="max-width: 500px">
+</div>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+I'm Christian _(or Chris)_, currently finishing my bachelors at McGill in Economics & Computer Science while working part-time at [Front Row Ventures](https://frontrow.ventures/) and operating at [Ground AI](https://groundai.com/). Previously, I was a VC Intern at funds like [White Star Capital](https://whitestarcapital.com/) and [Inovia Capital](https://inovia.vc/).
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+A few links to explore:
+<br>
+• <a href="/writing" class="internal-link">Writing</a>
+<br>
+• <a href="/projects" class="internal-link">Projects</a>
+<br>
+• <a href="/now" class="internal-link">Now</a>
 
-<strong>Recently updated notes</strong>
+<strong>Recently updated </strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
