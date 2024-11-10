@@ -13,3 +13,5 @@ I am proud of all you have achieved\
 I am proud of how you keep going through tough times
 
 Simply put, I am proud of you.
+
+If you enjoyed this, you might like [[create your own luck]].

@@ -41,3 +41,16 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
+graph_options:
+  exclude:
+    - "_notes/references"
+    - "_notes/references/"
+    - "_notes/references/*"
+    - "_notes/references/**"
+    - "/_notes/references"
+    - "/_notes/references/"
+    - "/_notes/references/*"
+    - "/_notes/references/**"
+    - "**/references/**"
+    - "**/references/*"

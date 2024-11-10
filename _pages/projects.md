@@ -6,9 +6,9 @@ permalink: /projects/
 
 # Projects
 
-A collection of projects I've worked on:
+A collection of projects I'm working and have worked on:
 
-- **[Project Name](link)** - Brief description
+- **[555 nights](/555)** - A collection of notes and thoughts on various topics
 - **[Another Project](link)** - Brief description
 
 _Add your projects and descriptions here_
