@@ -11,7 +11,7 @@ permalink: /
   <img src="{{ '/assets/IMG_8265.jpg' | relative_url }}" alt="Christian Levan" style="max-width: 500px; width: 100%; height: auto;">
 </div>
 
-I'm Christian _(or Chris)_, currently finishing my bachelors at McGill in Economics & Computer Science while working part-time at [Front Row Ventures](https://frontrow.ventures/) and operating at [Ground AI](https://groundai.com/). Previously, I was a VC Intern at funds like [White Star Capital](https://whitestarcapital.com/) and [Inovia Capital](https://inovia.vc/).
+I'm Christian _(or Chris)_, currently finishing my bachelors at McGill in Economics & Computer Science while working part-time at [Front Row Ventures](https://frontrow.ventures/) and wearing multiple hats at [Ground AI](https://joinground.com/). Previously, I was a VC Intern at funds like [White Star Capital](https://whitestarcapital.com/) and [Inovia Capital](https://inovia.vc/) and worked at several startups in Ops & Product roles.
 
 A few links to explore:
 <br>
