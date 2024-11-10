@@ -1,5 +1,6 @@
 ---
 title: Your first seed
+category: draft
 ---
 
 ### to push

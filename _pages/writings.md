@@ -4,7 +4,7 @@ title: Writing
 permalink: /writing/
 ---
 
-# Writings
+# Writing
 
 A collection of thoughts, reflections, and essays.
 
