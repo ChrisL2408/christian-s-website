@@ -4,6 +4,8 @@ category: drafts
 published: false
 ---
 
+./serve.sh
+
 ### to push
 
 $ git add --all
