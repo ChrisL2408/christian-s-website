@@ -12,7 +12,12 @@
       property="og:description"
       content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"
     />
-    <meta property="og:image" content="{{ site.url }}/assets/IMG_7778.png" />
+    <meta
+      property="og:image"
+      content="https://christianlevan.me/assets/IMG_7778.png"
+    />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:type" content="article" />
 
@@ -26,7 +31,11 @@
       name="twitter:description"
       content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"
     />
-    <meta name="twitter:image" content="{{ site.url }}/assets/IMG_7778.png" />
+    <meta
+      name="twitter:image"
+      content="https://christianlevan.me/assets/IMG_7778.png"
+    />
+    <meta name="twitter:creator" content="@YourTwitterHandle" />
   </head>
   <body>
     <nav>{% include nav.html %}</nav>
