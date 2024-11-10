@@ -1,17 +1,15 @@
 ---
-title: ANNIE'S ARTICLE
-date: 2024-10-09
+title: a reminder in hard times
+date: 2024-07-26
 category: writing
-excerpt: Systems want to grow and grow, but without pruning, they collapse. Slowly, then spectacularly...
-reading_time: 1
-tags: [minimalism, systems]
 ---
 
-Move your body every day. Benefits include:
+I don't say this much but
 
-- Improved sleep quality
-- Less risk of chronic disease
-- Increased productivity
-- Reduced anxiety
+I am proud of who you are as a person\
+I am proud of who you are becoming\
+I am proud of how hard you try in life\
+I am proud of all you have achieved\
+I am proud of how you keep going through tough times
 
-The "every day" part is important, because [[consistency]] is key to most things worth doing.
+Simply put, I am proud of you.

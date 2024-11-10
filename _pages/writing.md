@@ -4,34 +4,22 @@ title: Writing
 permalink: /writing/
 ---
 
-# Latest
+# Writings
 
-{% assign latest_post = site.notes | where: "category", "writing" | sort: "date" | reverse | first %}
+A collection of thoughts, reflections, and essays.
 
-## [{{ latest_post.title }}]({{ latest_post.url }})
-
-{{ latest_post.date | date: "%B %-d, %Y" }} · {{ latest_post.reading_time }} minute read
-
-{{ latest_post.excerpt }} [Keep reading →]({{ latest_post.url }})
-
-## Topics
-
-{% assign all_tags = site.notes | where: "category", "writing" | map: "tags" | compact | uniq | sort %}
-{% for tag in all_tags %}
-<a href="/tags/{{ tag }}" class="tag">{{ tag }}</a>
-{% endfor %}
-
-## Writing
+<style>
+.date {
+  font-size: 0.9em;
+  color: #888;
+}
+.title {
+  font-weight: bold;
+}
+</style>
 
 {% assign writing_notes = site.notes | where: "category", "writing" | sort: "date" | reverse %}
+
 {% for note in writing_notes %}
-{{ note.date | date: "%Y-%m-%d" }}  
-[{{ note.title }}]({{ note.url }})
+<span class="date">{{ note.date | date: "%Y-%m-%d" }}</span> <span class="title">[{{ note.title }}]({{ note.url }})</span>
 {% endfor %}
-
-## Receive my updates
-
-<form action="YOUR_FORM_ENDPOINT" method="post" class="subscribe-form">
-  <input type="email" name="email" placeholder="Enter your email">
-  <button type="submit">Subscribe</button>
-</form>

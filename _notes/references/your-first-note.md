@@ -2,9 +2,17 @@
 title: Your first seed
 ---
 
+### to push
+
+$ git add --all
+$ git commit -m 'Update content'
+$ git push origin master
+
+$
+
 ### Welcome!
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
+This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory.
 
 ### Link syntax
 
@@ -46,6 +54,7 @@ You may embed media files within a note using HTML5 media tags. Here's an exampl
 
 "Jazzy Frenchy" by Benjamin Tissot from bensound.com
 <audio controls>
+
   <source src="{{ site.baseurl }}/assets/jazzyfrenchy.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
@@ -102,8 +111,7 @@ You can add code blocks with full syntax color highlighting by wrapping code sni
 
 ```js
 // Here's a bit of JavaScript:
-if (a === b || c == d)
-  console.log('hello!')
+if (a === b || c == d) console.log("hello!");
 ```
 
 ```rb
@@ -116,7 +124,6 @@ end
 ```sh
 $ cat /dev/urandom | grep "the answer to life" # shell scripts look nice too
 ```
-
 
 ### Next steps
 
