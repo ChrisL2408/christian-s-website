@@ -37,6 +37,65 @@ Previously, I was a VC Intern at funds like [White Star Capital](https://whitest
   {% endfor %}
 </ul>
 
+**Featured In**
+
+<div class="featured-links">
+  <div class="featured-item">
+    <span class="featured-icon">🎙️</span>
+    <a href="https://open.spotify.com/episode/7hVGOIrBnof6XWQDQwxn3v" class="featured-link">The Hard Part by Evan McCann</a>
+    <p class="featured-desc">Breaking into Venture Capital and my journey with Front Row Ventures</p>
+  </div>
+
+  <div class="featured-item">
+    <span class="featured-icon">📻</span>
+    <a href="https://www.bbc.co.uk/programmes/w3ct5rbp" class="featured-link">BBC OS Conversations</a>
+    <p class="featured-desc">My experience as an ambulance operator in Singapore's military for 2 years</p>
+  </div>
+
+  <div class="featured-item">
+    <span class="featured-icon">🎧</span>
+    <a href="https://www.youtube.com/watch?v=oQECInxJV0w" class="featured-link">Wynette's Podcast</a>
+    <p class="featured-desc">The journey from Singapore to McGill  and Venture Capital</p>
+  </div>
+</div>
+
+<style>
+.featured-links {
+  display: grid;
+  gap: 0.5rem;
+  margin: 0.5rem 0;
+}
+
+.featured-item {
+  padding: 0.75rem;
+  border-radius: 8px;
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(10px);
+  transition: transform 0.2s ease;
+}
+
+.featured-item:hover {
+  transform: translateY(-2px);
+}
+
+.featured-icon {
+  font-size: 1.1rem;
+  margin-right: 0.5rem;
+}
+
+.featured-link {
+  font-size: 1.1rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.featured-desc {
+  margin: 0.2rem 0 0 1.8rem;
+  color: #888;
+  font-size: 0.9rem;
+}
+</style>
+
 <style>
   .wrapper {
     max-width: 46em;

@@ -29,4 +29,10 @@ Here's what I'm currently up to:
 - VC at [White Star Capital](https://whitestarcapital.com/), [Inovia Capital](https://inovia.vc/), Entrepreneur First [EF](https://www.joinef.com/)
 - Various roles in Biz Ops & Product @ [FinTech](https://optionality.ai/), [Defi](https://qcpcapital.medium.com/an-explanation-of-defi-options-vaults-dovs-22d7f0d0c09f) & [EdTech](https://www.readtrellis.com/)early-stage startups
 
+**Next**
+
+Looking for my next challenge in fall of 2025 for a full-time role in Toronto/Montreal to work at an early stage company (Seed approaching Series A B2B SaaS) in a junior generalist role in ops or product!
+
+_If you think my profile might be fit please send me an email: christian.l@frontrow.vc_
+
 _Last updated: 2024-01-09_
