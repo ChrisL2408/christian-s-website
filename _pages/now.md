@@ -4,24 +4,29 @@ title: Now
 permalink: /now/
 ---
 
-# What I'm Doing Now
+# Now
 
-_Last updated: [Current Date]_
+Here's what I'm currently up to:
 
-## Currently Working On
+**Building & Learning**
 
 - Finishing my bachelors at McGill in Economics & Computer Science
-- Working at Front Row Ventures
-- Operating at Ground AI
+- Supporting Founders at [Front Row Ventures](https://frontrow.ventures/) as the Director of Portfolio Support
+- Growth & GTM [Ground AI](https://groundai.com/) helping build the future of AI tools for DTC companies
 
-## Reading
+**Community**
 
-- [Book title]
-- [Another book]
+- Running [555 nights](/555) - a demo evening in Montreal bringing together builders and creators
+- Exploring ways to strengthen Montreal's builder community (trying not to shitpost on X too much)
 
-## Learning
+**Reading & Writing**
 
-- [Topic/Skill]
-- [Another Topic/Skill]
+- Writing more regularly on this site about tech, startups, and personal growth
+- Currently reading [_80,000 Hours_](https://80000hours.org/book/) by Benjamin Todd - a guide on how to make a bigger positive impact with your career choices
 
-_This is a [now page](https://nownownow.com/about), inspired by Derek Sivers._
+**Previously**
+
+- VC at [White Star Capital](https://whitestarcapital.com/), [Inovia Capital](https://inovia.vc/), Entrepreneur First [EF](https://www.joinef.com/)
+- Various roles in Biz Ops & Product @ [FinTech](https://optionality.ai/), [Defi](https://qcpcapital.medium.com/an-explanation-of-defi-options-vaults-dovs-22d7f0d0c09f) & [EdTech](https://www.readtrellis.com/)early-stage startups
+
+_Last updated: 2024-01-09_
