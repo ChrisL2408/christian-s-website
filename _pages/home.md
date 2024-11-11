@@ -48,7 +48,7 @@ Previously, I was a VC Intern at funds like [White Star Capital](https://whitest
 
   <div class="featured-item">
     <span class="featured-icon">📻</span>
-    <a href="https://www.bbc.co.uk/programmes/w3ct5rbp" class="featured-link">BBC OS Conversations</a>
+    <a href="https://www.bbc.co.uk/programmes/w3ct5rbp" class="featured-link">BBC Radio</a>
     <p class="featured-desc">My experience as an ambulance operator in Singapore's military for 2 years</p>
   </div>
 
